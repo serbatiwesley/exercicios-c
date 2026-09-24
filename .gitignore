@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.dll
+desktop.ini
+thumbs.db
+# .vscode/
