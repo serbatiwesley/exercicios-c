@@ -5,7 +5,7 @@ Repositório com os exercícios de linguagem C desenvolvidos ao longo do primeir
 ## Estrutura
 
 ```
-01_basico/              Fundamentos: entrada/saída, condicionais, laços, operadores
+01_basico/               Fundamentos: entrada/saída, condicionais, laços, operadores
 02_funcoes/              Funções, parâmetros e retorno
 03_repeticao_fluxo/      Estruturas de repetição aplicadas a problemas mais elaborados
 04_structs_ponteiros/    Structs, ponteiros e passagem por referência
